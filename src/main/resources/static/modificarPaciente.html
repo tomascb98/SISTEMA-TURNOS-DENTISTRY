@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Pacientes</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/getPaciente.js"></script>
+    <script type="text/javascript" src="/js/updatePaciente.js"></script>
+    <script type="text/javascript" src="/js/deletePaciente.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="index.html">Salvador Muelitas</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Odontologos
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="./registroOdontologo.html">Registrar Odontologo</a>
+                    <a class="dropdown-item" href="/modificarOdontologo.html">Modificar Odontologo</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Pacientes
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="./registroPaciente.html">Registrar Paciente</a>
+                    <a class="dropdown-item" href="/modificarPaciente.html">Modificar Paciente</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Turnos
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="./registroTurno.html">Registrar Turno</a>
+                    <a class="dropdown-item" href="/modificarTurno.html">Modificar Turno</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+    <div id="div_paciente_table">
+        <h1>Pacientes</h1>
+        <div class="row col-md-6 table-responsive">
+            <table id="pacienteTable" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Documento</th>
+                    <th>Email</th>
+                    <th></th>
+                </tr>
+                </thead>
+                <tbody id="pacienteTableBody">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6" style="display: none;
+											background-color:#e6fffa; padding:10px; border-radius:3px; margin:30px"
+             id="div_paciente_updating">
+            <form id="update_paciente_form">
+                <div class="form-group">
+                    <label >Id:</label>
+                    <input type="text" class="form-control" id="paciente_id" readonly>
+                </div>
+                <div class="form-group">
+                    <label>Nombre:</label>
+                    <input type="text" class="form-control" id="nombre"
+                           placeholder="Ingrese el nombre del paciente"
+                           name="nombre" required>
+                </div>
+                <div class="form-group">
+                    <label>Apellido:</label>
+                    <input type="text" class="form-control" id="apellido"
+                           placeholder="Ingrese el apelido del paciente"
+                           name="apellido" required>
+                </div>
+                <div class="form-group">
+                    <label>Documento: </label>
+                    <input type="text" class="form-control" id="documento"
+                           placeholder="Ingrese el documento de identidad del paciente"
+                           name="documento" required>
+                </div>
+                <div class="form-group">
+                    <label>email: </label>
+                    <input type="text" class="form-control" id="email"
+                           name="email" required>
+                </div>
+                <div class="form-group">
+                    <label>Fecha de Ingreso: </label>
+                    <input type="date" class="form-control" id="fecha"
+                           placeholder="Ingrese la fecha de ingreso del paciente"
+                           name="fecha" readonly>
+                </div>
+                <div class="form-group">
+                    <h6>Domicilio de Residencia</h6>
+                    <label>Id Domicilio:</label>
+                    <input type="number" class="form-control" id="domicilio_id"
+                           name="calle" readonly>
+                    <label>Calle: </label>
+                    <input type="text" class="form-control" id="calle"
+                           placeholder="Ingrese la calle"
+                           name="calle" required>
+                    <label>Numero: </label>
+                    <input type="text" class="form-control" id="numero_calle"
+                           placeholder="Ingrese el numero de la calle"
+                           name="numero_calle" required>
+                    <label>Localidad: </label>
+                    <input type="text" class="form-control" id="localidad"
+                           placeholder="Ingrese la localidad"
+                           name="localidad" required>
+                    <label>Provincia: </label>
+                    <input type="text" class="form-control" id="provincia"
+                           placeholder="Ingrese la provincia"
+                           name="provincia" required>
+                </div>
+
+
+                <button type="submit" class="btn btn-success">Modificar</button>
+            </form>
+            <div id="response" style="display:none; margin:10px">
+            </div>
+        </div>
+    </div>
+    <hr>
+</div>
+</body>
+</html>

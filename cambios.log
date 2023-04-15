@@ -1,0 +1,599 @@
+[2023-03-23 10:59:27] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 11:03:36] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 11:11:29] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 11:29:15] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 11:31:54] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='null', nombre='Tomas', apellido='Casas'}
+[2023-03-23 11:32:01] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 11:32:06] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 11:32:07] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 11:34:41] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 11:35:02] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 11:35:04] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 11:35:04] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 11:37:30] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:06:49] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:07:17] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 12:07:20] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:07:20] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:22:33] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:22:33] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:23:24] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:30:06] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='casas'}
+[2023-03-23 12:30:13] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:30:13] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:30:23] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1312535234', nombre='Tomas', apellido='CXaasas'}
+[2023-03-23 12:30:28] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:30:28] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:54:39] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:54:39] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:55:37] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 12:55:38] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 12:55:38] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 12:55:39] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 12:55:41] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:55:41] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:57:41] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 12:57:42] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 12:57:42] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 12:57:45] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:57:45] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:57:46] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 12:57:46] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:02] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:03] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:04] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:04] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:05] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:05] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:08] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:00:15] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:00:22] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:00:24] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:00:26] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:26] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:27] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:00:27] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:01:06] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:01:07] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:01:09] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:01:09] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:01:10] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:01:12] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:01:12] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:01:21] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:01:21] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:02:09] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:02:10] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:02:10] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:02:11] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:02:11] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:02:14] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:02:14] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:07:43] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:07:43] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:07:44] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:07:44] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:07:45] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:07:45] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=6, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:07:49] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:07:49] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:07:50] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:07:50] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:07:50] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:07:50] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:07:58] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:07:58] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:09:22] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:09:22] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:09:23] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:09:23] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:09:24] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:09:24] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=6, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:09:35] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:09:35] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:10:18] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:10:19] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:10:19] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:10:19] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:10:20] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:10:20] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=6, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:10:20] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=7, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:10:21] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=8, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:10:24] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:10:24] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:31:08] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:31:13] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:31:16] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='645456', nombre='Tom46as', apellido='Casas'}
+[2023-03-23 13:31:19] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='645456', nombre='Tom46as', apellido='Cas4646as'}
+[2023-03-23 13:31:23] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='645456', nombre='Tom4646747as', apellido='Cas4646as'}
+[2023-03-23 13:31:28] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:31:28] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:31:30] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:31:30] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:31:37] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='1234', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:32:14] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:32:14] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:33:41] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='645456', nombre='Tom4646747as', apellido='Cas4646as'}
+[2023-03-23 13:33:47] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:33:50] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas', apellido='Casas'}
+[2023-03-23 13:33:55] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casas'}
+[2023-03-23 13:33:57] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:34:01] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:34:01] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:34:04] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='645456', nombre='Tom4646747as', apellido='Cas4646as'} de la base de datos
+[2023-03-23 13:34:04] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='645456', nombre='Tom4646747as', apellido='Cas4646as'} de la base de datos
+[2023-03-23 13:34:17] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:34:18] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:34:18] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:34:53] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:34:53] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:05] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:05] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:12] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='TOMAS', apellido='CASAS'} de la base de datos
+[2023-03-23 13:35:12] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:12] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:18] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='645456', nombre='Tom4646747as', apellido='Cas4646as'} de la base de datos
+[2023-03-23 13:35:18] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='645456', nombre='Tom4646747as', apellido='Cas4646as'} de la base de datos
+[2023-03-23 13:35:21] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='TOMASsSS', apellido='CASAS'} de la base de datos
+[2023-03-23 13:35:21] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:21] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:26] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:26] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:33] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='12', nombre='TOMASsSS', apellido='CASAS'} de la base de datos
+[2023-03-23 13:35:33] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:33] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:35] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:35] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:37] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:37] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:42] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:42] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:42] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:42] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:43] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:43] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:43] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:43] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='645456', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:43] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:43] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:44] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:44] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casas'} de la base de datos
+[2023-03-23 13:35:45] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='12', nombre='TOMASsSS', apellido='CASAS'} de la base de datos
+[2023-03-23 13:35:45] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='12', nombre='TOMASsSS', apellido='CASAS'} de la base de datos
+[2023-03-23 13:35:46] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='12', nombre='TOMASsSS', apellido='CASAS'} de la base de datos
+[2023-03-23 13:35:52] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:35:52] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:48:05] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:48:06] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:48:06] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:48:07] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:48:07] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:48:08] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=6, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:48:08] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=7, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:48:52] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:48:52] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:49:04] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:49:04] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:49:09] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=7, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:49:09] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:49:09] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:50:15] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:50:15] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:50:33] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=7, numeroMatricula='645459967', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:50:34] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:50:34] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:50:57] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:50:57] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:09] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:51:09] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:51:11] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:11] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:13] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:13] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:15] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:51:15] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:51:16] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:16] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:26] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=7, numeroMatricula='12', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:26] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:51:26] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:51:48] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=6, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:51:48] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=6, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:53:07] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:53:07] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:53:08] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:53:08] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:53:10] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:53:10] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:53:19] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:53:21] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:53:21] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:53:22] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 13:53:28] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:53:28] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 13:53:29] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 13:53:29] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:18] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:18] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:19] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:19] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:19] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:19] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:19] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:19] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:20] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:20] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:20] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:20] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:20] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:20] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:21] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:21] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:21] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:21] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:22] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:22] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:22] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:22] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:22] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:22] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:22] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:22] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:23] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:23] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:23] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:23] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:23] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:23] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:23] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:05:23] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:11:59] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:12:00] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:12:00] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:12:01] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:12:01] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:12:02] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=6, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:12:02] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=7, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:12:10] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:12:10] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:12:12] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:12:12] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:12:14] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:12:14] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:12:15] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:12:15] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:12:56] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=6, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:13:02] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:13:02] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:13:12] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:13:14] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:13:14] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:14:25] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:14:25] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:14:28] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:14:29] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:14:29] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:14:33] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:14:33] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:14:43] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:14:43] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:14:46] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=8, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:14:48] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:14:48] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:15:07] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:15:07] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:16:01] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:16:01] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:16:05] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=7, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:16:05] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=7, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:16:08] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:16:08] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:17] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:17] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:18] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:20] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:18:21] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:18:21] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:18:22] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:18:22] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:18:23] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=6, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:18:27] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:27] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:28] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:28] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:30] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:30] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:31] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:31] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:32] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:32] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:33] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:33] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:38] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:38] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:38] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:42] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:42] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:48] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:18:48] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:48] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:18:55] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='1', nombre='Tomas1', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:19:03] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:19:03] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:20:18] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='1', nombre='Tomas1', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:21:00] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:21:00] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:21:01] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:21:01] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:21:04] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:21:04] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:21:11] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:21:11] [ DEBUG] [OdontologoDAOH2:123] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:22:30] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:22:31] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:22:32] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=3, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:22:32] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=4, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:22:33] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=5, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:22:33] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=6, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:22:34] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=7, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'}
+[2023-03-23 14:22:37] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:22:39] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:22:39] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:22:43] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:22:43] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:22:46] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='64545996', nombre='Tomas6567', apellido='Casasghfgf'} de la base de datos
+[2023-03-23 14:22:48] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:22:48] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:24:48] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:25:30] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='123245', nombre='Tomas', apellido='Casas'}
+[2023-03-23 14:26:41] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:26:53] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='123', nombre='Tomas', apellido='Casas'}
+[2023-03-23 14:27:36] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=1, numeroMatricula='12123', nombre='tehwh', apellido='werhe'}
+[2023-03-23 14:27:41] [ DEBUG] [OdontologoDAOH2:33] Se hizo la inserción en la base de datos correctamente del Odontologo{id=2, numeroMatricula='2412431', nombre='gsgasg', apellido='sdgasgsdg'}
+[2023-03-23 14:27:43] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:27:44] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:27:51] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='12123', nombre='tehwh', apellido='werhe'} de la base de datos
+[2023-03-23 14:27:51] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='12123', nombre='tehwh', apellido='werhe'} de la base de datos
+[2023-03-23 14:27:59] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=1, numeroMatricula='12123', nombre='tehwh', apellido='werhe'} de la base de datos
+[2023-03-23 14:27:59] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:27:59] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:28:06] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='2412431', nombre='gsgasg', apellido='sdgasgsdg'} de la base de datos
+[2023-03-23 14:28:06] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='2412431', nombre='gsgasg', apellido='sdgasgsdg'} de la base de datos
+[2023-03-23 14:28:14] [ DEBUG] [OdontologoDAOH2:63] Se ha buscado satisfactoriamente al odontologo Odontologo{id=2, numeroMatricula='2412431', nombre='gsgasg', apellido='sdgasgsdg'} de la base de datos
+[2023-03-23 14:28:14] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-03-23 14:28:14] [ DEBUG] [OdontologoDAOH2:124] Se ha buscado satisfactoriamente a todos los odontologos de la base de datos
+[2023-04-07 22:58:48] [ DEBUG] [OdontologoService:31] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 16:07:59] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 16:08:13] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 16:08:20] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 16:08:24] [ DEBUG] [OdontologoService:50] Se hizo la eliminacion correcta del odontologo con id: 2
+[2023-04-08 16:08:38] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 16:08:45] [ DEBUG] [OdontologoService:60] Se hizo la actualizacion correcta del odontologo con id: 1
+[2023-04-08 16:08:45] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 16:09:29] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 1
+[2023-04-08 16:09:49] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:09:49] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:09:59] [ DEBUG] [PacienteService:40] Se hizo la busqueda correctamente en la base de datos del paciente con id: 1
+[2023-04-08 16:10:14] [ DEBUG] [PacienteService:71] Se hizo la actualizacion correctamente del paciente con id: 1
+[2023-04-08 16:10:14] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:10:14] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:10:28] [ DEBUG] [PacienteService:40] Se hizo la busqueda correctamente en la base de datos del paciente con id: 1
+[2023-04-08 16:10:28] [ DEBUG] [PacienteService:50] Se hizo la eliminacion correctamente del paciente con id: 1
+[2023-04-08 16:11:07] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 2
+[2023-04-08 16:11:11] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:11:11] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:11:20] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 16:11:20] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:11:20] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:11:25] [ DEBUG] [PacienteService:40] Se hizo la busqueda correctamente en la base de datos del paciente con id: 2
+[2023-04-08 16:11:27] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 16:11:38] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 1
+[2023-04-08 16:11:38] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 16:11:38] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:11:38] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 16:11:44] [ DEBUG] [TurnoService:93] Se hizo la busqueda correcta de los turnos en la base de datos.
+[2023-04-08 16:12:15] [ DEBUG] [TurnoService:57] Se hizo la busqueda correctamente en la base de datos del turno con id: 1
+[2023-04-08 16:12:28] [ DEBUG] [TurnoService:57] Se hizo la busqueda correctamente en la base de datos del turno con id: 1
+[2023-04-08 16:12:28] [ DEBUG] [TurnoService:78] Se hizo la actualizacion correctamente del turno con id: 1
+[2023-04-08 16:12:28] [ DEBUG] [TurnoService:93] Se hizo la busqueda correcta de los turnos en la base de datos.
+[2023-04-08 17:14:14] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:14:22] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:35:50] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:36:05] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:36:05] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 17:42:53] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:42:53] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 17:42:53] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 17:42:53] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 17:42:53] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 17:42:53] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 17:44:37] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:44:37] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 17:44:37] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 17:44:37] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 17:44:37] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 17:44:37] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 17:45:13] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:45:13] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 17:45:13] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 17:45:13] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 17:45:13] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 17:45:13] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 17:50:57] [ WARN ] [OdontologoService:63] ERROR. No se pudo actualizar el odontologo en la base de datos con id: 1
+[2023-04-08 17:51:05] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:51:15] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:51:15] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 17:51:15] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 17:51:15] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 17:51:15] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 17:51:15] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 17:51:15] [ DEBUG] [OdontologoService:60] Se hizo la actualizacion correcta del odontologo con id: 1
+[2023-04-08 17:57:26] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 17:57:27] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 17:57:27] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 17:57:27] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 17:57:27] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 17:57:27] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 17:57:27] [ DEBUG] [OdontologoService:60] Se hizo la actualizacion correcta del odontologo con id: 1
+[2023-04-08 17:57:27] [ DEBUG] [OdontologoService:50] Se hizo la eliminacion correcta del odontologo con id: 1
+[2023-04-08 17:57:27] [ WARN ] [OdontologoService:43] ERROR. No se encontró en la base de datos el odontologo con id: 1
+[2023-04-08 18:00:36] [ WARN ] [OdontologoService:53] ERROR. No se pudo eliminar el odontologo en la base de datos con id: 1
+[2023-04-08 18:00:44] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 18:00:44] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 18:00:44] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 18:00:44] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 18:00:44] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 18:00:44] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 18:00:44] [ DEBUG] [OdontologoService:60] Se hizo la actualizacion correcta del odontologo con id: 1
+[2023-04-08 18:00:44] [ DEBUG] [OdontologoService:50] Se hizo la eliminacion correcta del odontologo con id: 1
+[2023-04-08 18:00:44] [ WARN ] [OdontologoService:43] ERROR. No se encontró en la base de datos el odontologo con id: 1
+[2023-04-08 18:07:53] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 18:07:53] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 18:07:53] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 18:07:53] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 18:07:53] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 18:07:53] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 18:07:53] [ DEBUG] [OdontologoService:60] Se hizo la actualizacion correcta del odontologo con id: 1
+[2023-04-08 18:07:53] [ DEBUG] [OdontologoService:50] Se hizo la eliminacion correcta del odontologo con id: 1
+[2023-04-08 18:07:53] [ WARN ] [OdontologoService:43] ERROR. No se encontró en la base de datos el odontologo con id: 1
+[2023-04-08 18:24:17] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 18:24:17] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 18:24:17] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 18:24:17] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 18:24:17] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 18:24:17] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 18:24:17] [ DEBUG] [OdontologoService:60] Se hizo la actualizacion correcta del odontologo con id: 1
+[2023-04-08 18:24:17] [ DEBUG] [OdontologoService:50] Se hizo la eliminacion correcta del odontologo con id: 1
+[2023-04-08 18:24:17] [ WARN ] [OdontologoService:43] ERROR. No se encontró en la base de datos el odontologo con id: 1
+[2023-04-08 18:25:32] [ WARN ] [PacienteService:64] ERROR. No existen registros de Pacientes en el momento.
+[2023-04-08 18:25:32] [ WARN ] [OdontologoService:74] ERROR. No existen registros de Odontologos en el momento.
+[2023-04-08 18:25:32] [ ERROR] [GlobalExceptions:15] ERROR. ResourceNotFoundException lanzada
+[2023-04-08 18:25:32] [ ERROR] [GlobalExceptions:15] ERROR. ResourceNotFoundException lanzada
+[2023-04-08 18:38:24] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 18:38:46] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 1
+[2023-04-08 18:39:21] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 18:39:21] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 18:39:21] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 18:39:24] [ DEBUG] [PacienteService:40] Se hizo la busqueda correctamente en la base de datos del paciente con id: 1
+[2023-04-08 18:39:27] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 18:39:33] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 1
+[2023-04-08 18:39:33] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 18:39:33] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 18:39:33] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 18:41:05] [ WARN ] [PacienteService:64] ERROR. No existen registros de Pacientes en el momento.
+[2023-04-08 18:41:05] [ ERROR] [GlobalExceptions:15] ERROR. ResourceNotFoundException lanzada
+[2023-04-08 18:41:24] [ WARN ] [OdontologoService:74] ERROR. No existen registros de Odontologos en el momento.
+[2023-04-08 18:41:24] [ ERROR] [GlobalExceptions:15] ERROR. ResourceNotFoundException lanzada
+[2023-04-08 18:41:27] [ WARN ] [PacienteService:64] ERROR. No existen registros de Pacientes en el momento.
+[2023-04-08 18:41:27] [ ERROR] [GlobalExceptions:15] ERROR. ResourceNotFoundException lanzada
+[2023-04-08 18:41:29] [ DEBUG] [TurnoService:96] ERROR. No existen registros de turnos en el momento.
+[2023-04-08 18:41:29] [ ERROR] [GlobalExceptions:15] ERROR. ResourceNotFoundException lanzada
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 1
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 1
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 2
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 2
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 3
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 3
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 4
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 4
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 5
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:5
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 5
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 6
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:6
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 6
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 7
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:7
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 7
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 8
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:8
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 8
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 9
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:9
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 9
+[2023-04-08 18:41:54] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 10
+[2023-04-08 18:41:54] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:10
+[2023-04-08 18:41:54] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 10
+[2023-04-08 18:41:57] [ DEBUG] [TurnoService:93] Se hizo la busqueda correcta de los turnos en la base de datos.
+[2023-04-08 18:42:00] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 18:42:00] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 18:42:02] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 18:42:10] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 18:42:10] [ DEBUG] [PacienteService:61] Se hizo la busqueda correcta de los pacientes en la base de datos.
+[2023-04-08 18:48:43] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 18:48:43] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 18:48:43] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 18:48:43] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 18:48:43] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 18:48:43] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 18:48:43] [ DEBUG] [OdontologoService:60] Se hizo la actualizacion correcta del odontologo con id: 1
+[2023-04-08 18:48:43] [ DEBUG] [OdontologoService:50] Se hizo la eliminacion correcta del odontologo con id: 1
+[2023-04-08 18:48:43] [ WARN ] [OdontologoService:43] ERROR. No se encontró en la base de datos el odontologo con id: 1
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 1
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 1
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 2
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 2
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 3
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 3
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 4
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 4
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 5
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:5
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 5
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 6
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:6
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 6
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 7
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:7
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 7
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 8
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:8
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 8
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 9
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:9
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 9
+[2023-04-08 18:49:16] [ DEBUG] [PacienteService:29] Se hizo el guardado correctamente en la base de datos del paciente con id: 10
+[2023-04-08 18:49:16] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:10
+[2023-04-08 18:49:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 10
+[2023-04-08 18:49:26] [ DEBUG] [OdontologoService:50] Se hizo la eliminacion correcta del odontologo con id: 1
+[2023-04-08 18:49:39] [ DEBUG] [TurnoService:96] ERROR. No existen registros de turnos en el momento.
+[2023-04-08 18:49:39] [ ERROR] [GlobalExceptions:15] ERROR. ResourceNotFoundException lanzada
+[2023-04-08 18:49:58] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 18:50:10] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 11
+[2023-04-08 18:50:11] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 12
+[2023-04-08 18:50:11] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 13
+[2023-04-08 18:50:12] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 14
+[2023-04-08 18:50:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 15
+[2023-04-08 18:50:16] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 16
+[2023-04-08 18:50:17] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 17
+[2023-04-08 18:50:24] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 18
+[2023-04-08 18:50:25] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 19
+[2023-04-08 18:50:25] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 20
+[2023-04-08 18:50:26] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 21
+[2023-04-08 18:50:30] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 22
+[2023-04-08 18:50:30] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 23
+[2023-04-08 18:50:31] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 24
+[2023-04-08 18:50:31] [ DEBUG] [TurnoService:45] Se hizo el guardado correctamente en la base de datos del turno con id: 25
+[2023-04-08 18:50:50] [ DEBUG] [PacienteService:40] Se hizo la busqueda correctamente en la base de datos del paciente con id: 1
+[2023-04-08 18:50:50] [ DEBUG] [PacienteService:50] Se hizo la eliminacion correctamente del paciente con id: 1
+[2023-04-08 18:51:47] [ DEBUG] [TurnoService:93] Se hizo la busqueda correcta de los turnos en la base de datos.
+[2023-04-08 18:52:35] [ DEBUG] [PacienteService:40] Se hizo la busqueda correctamente en la base de datos del paciente con id: 2
+[2023-04-08 18:52:35] [ DEBUG] [PacienteService:50] Se hizo la eliminacion correctamente del paciente con id: 2
+[2023-04-08 18:52:50] [ DEBUG] [TurnoService:93] Se hizo la busqueda correcta de los turnos en la base de datos.
+[2023-04-08 19:00:04] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:1
+[2023-04-08 19:00:04] [ DEBUG] [OdontologoService:40] Se hizo la busqueda correcta del odontologo1
+[2023-04-08 19:00:04] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:2
+[2023-04-08 19:00:04] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:3
+[2023-04-08 19:00:04] [ DEBUG] [OdontologoService:29] Se hizo el guardado correctamente en la base de datos del odontologo con id:4
+[2023-04-08 19:00:04] [ DEBUG] [OdontologoService:71] Se hizo la busqueda correcta de los odontologos en la base de datos.
+[2023-04-08 19:00:04] [ DEBUG] [OdontologoService:60] Se hizo la actualizacion correcta del odontologo con id: 1
+[2023-04-08 19:00:04] [ DEBUG] [OdontologoService:50] Se hizo la eliminacion correcta del odontologo con id: 1
+[2023-04-08 19:00:04] [ WARN ] [OdontologoService:43] ERROR. No se encontró en la base de datos el odontologo con id: 1
